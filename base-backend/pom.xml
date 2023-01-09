@@ -58,4 +58,7 @@
 		</plugins>
 	</build>
 
+	<modules>
+		<module>persistence</module>
+	</modules>
 </project>
