@@ -60,5 +60,6 @@
 
 	<modules>
 		<module>persistence</module>
+		<module>model</module>
 	</modules>
 </project>
