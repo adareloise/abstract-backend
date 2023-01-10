@@ -8,4 +8,15 @@
   <artifactId>persistence</artifactId>
   <name>persistence</name>
   <description>common data orm</description>
+  <dependencies>
+  	<dependency>
+		<groupId>org.springframework.boot</groupId>
+		<artifactId>spring-boot-starter-data-mongodb</artifactId>
+	</dependency>
+	<dependency>
+    	<groupId>com.adareloise</groupId>
+  		<artifactId>model</artifactId>
+    	<version>0.0.1-SNAPSHOT</version>
+	</dependency>	
+  </dependencies>
 </project>
