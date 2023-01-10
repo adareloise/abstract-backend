@@ -79,5 +79,6 @@
 		<module>model</module>
 		<module>service</module>
 		<module>api-rest</module>
+		<module>utils-common</module>
 	</modules>
 </project>
